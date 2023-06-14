@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maniackatzentier
-- 👀 I’m interested in GIS, Sysadmin Stift, Disaster Management
+- 👀 I’m interested in GIS, Sysadmin Stuff, Disaster Management
 - 🌱 I’m currently learning Python, WiFi Setup, Typo3
-- 💞️ I’m looking to collaborate on Projects comcerning GIS and Disaster Management
+- 💞️ I’m looking to collaborate on Projects concerning GIS and Disaster Management
 
 - 📫 How to reach me - Here in github
 
